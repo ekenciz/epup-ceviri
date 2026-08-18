@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "source": "The Watcher",
+      "target": "Gözcü",
+      "note": "Recurring character title",
+      "category": "title",
+      "confidence": 0.95,
+      "case_sensitive": false,
+      "whole_word": true
+    },
+    {
+      "source": "Winterfell",
+      "target": "Kışyarı",
+      "category": "place",
+      "confidence": 0.92,
+      "case_sensitive": false,
+      "whole_word": true
+    }
+  ]
+}
